@@ -106,7 +106,7 @@ public class DvdView {
     }
 
     public void displayDisplayAllBanner() {
-        io.print("=== Display All Students ===");
+        io.print("=== Display All DVDs ===");
     }
 
     public void displayCreateDvdBanner() {

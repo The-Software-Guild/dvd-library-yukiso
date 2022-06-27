@@ -108,7 +108,7 @@ public class DvdDaoFileImpl implements DvdDao {
         try {
             out = new PrintWriter(new FileWriter(LIBRARY_FILE));
         } catch (IOException e) {
-            throw new DvdDaoException("Could not save student data.", e);
+            throw new DvdDaoException("Could not save DVD data.", e);
         }
 
         String dvdAsText;
