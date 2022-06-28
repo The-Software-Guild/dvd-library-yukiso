@@ -1,9 +1,5 @@
 package com.m3.c242.dao;
 
-//        Allow the user to edit the information for an existing DVD in the collection
-//        Allow the user to add, edit, or delete many DVDs in one session
-
-
 import com.m3.c242.dto.Dvd;
 
 import java.util.List;
